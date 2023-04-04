@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # 🚨 Don't change the code below 👇
 age = int(input("What is your current age? "))
 # 🚨 Don't change the code above 👆
